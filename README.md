@@ -37,6 +37,7 @@ Before running the project, ensure that you have Node.js and npm installed. Foll
 ## Building for Production
 To build the application for production, run:
 - npm run build
+
 This will create a production-ready build in the dist/ directory.
 
 ## Testing
