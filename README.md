@@ -1,4 +1,4 @@
-# Mini Admin Panel - Backend (VUE3 + VITE)
+# Mini Admin Panel - Backend (Vue3 + Vite)
 The Mini Admin Panel is a web application built using modern web technologies and frameworks, including Vue 3, Vite, and several other libraries. It provides the following features:
 
 ## Authentication
